@@ -1,1 +1,3 @@
 # public
+
+This is a public test repository for collaboration testing...
